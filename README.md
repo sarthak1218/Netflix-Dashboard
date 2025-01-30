@@ -13,3 +13,5 @@ Automation & Scalability – Implementing dynamic filters, calculated fields, an
 
 
 Dashboard Link: https://public.tableau.com/shared/XP54DBK39?:display_count=n&:origin=viz_share_link
+
+![Netflix](https://github.com/user-attachments/assets/5df57481-1976-4ade-a06c-3717275c5e0c)
